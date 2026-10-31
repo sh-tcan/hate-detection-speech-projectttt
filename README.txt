@@ -2,7 +2,8 @@ CLEARSPACE AI
 CBSE CLASS XII ARTIFICIAL INTELLIGENCE PROJECT
 
 ABOUT
-ClearSpace AI is an educational text-classification website. It uses Natural
+Hate speech detection project
+This uses the following :
 Language Processing (NLP), CountVectorizer and a supervised Decision Tree
 Classifier to classify a text as:
 0 = Hate speech
