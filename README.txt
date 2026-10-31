@@ -3,8 +3,7 @@ CBSE CLASS XII ARTIFICIAL INTELLIGENCE PROJECT
 
 ABOUT
 Hate speech detection project
-This uses the following :
-Language Processing (NLP), CountVectorizer and a supervised Decision Tree
+This project uses Natural Language Processing (NLP), CountVectorizer, and a supervised Decision Tree
 Classifier to classify a text as:
 0 = Hate speech
 1 = Offensive language
